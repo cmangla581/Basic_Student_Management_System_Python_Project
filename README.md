@@ -1,2 +1,12 @@
 # Basic_Student_Management_System_Python_Project
-The Student Management System is an OOP Python Project which helps in saving the details of the student and adding, updating, searching and deleting them. 
+
+The Basic Student Management System is an OOP project in Python which uses the classes, encapsulation and basic 
+operations like the add, view, search, update and delete students.   
+
+The main features of the Student Management System in Pyhton which uses the features like the: 
+      
+      1. Add the students 
+      2. View Students 
+      3. Search student by ID 
+      4. Update student details 
+      5. Delete students 
